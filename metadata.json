@@ -1,0 +1,5 @@
+{
+  "name": "UX Archeologist",
+  "description": "An autonomous agent that analyzes UI bug videos using Gemini 3 to generate Playwright reproduction scripts and code fixes.",
+  "requestFramePermissions": []
+}
